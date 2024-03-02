@@ -38,3 +38,7 @@ Salut là-bas 👋, je suis Nassim, un passionné de code basé en Bretagne. Bie
 
 Merci d'avoir visité mon Hub ! N'hésitez pas à explorer mes projets, à me contacter pour toute question ou suggestion. Ensemble, explorons les horizons infinis du code 🚀🌌.
 
+
+###  #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Ncherfaoui/30-nites-of-code)  
+  ![@Ncherfaoui #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ncherfaoui)
