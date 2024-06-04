@@ -1,44 +1,37 @@
-# Bienvenue sur le Hub du Développeur 🚀
-
-Salut là-bas 👋, je suis Nassim, un passionné de code basé en Bretagne. Bienvenue dans mon espace numérique où la créativité rencontre la technologie!
-
-## 🌐 À Propos de Moi
-
-- 👨‍💻 En pleine reconversion DWWM à l'AFPA de Brest.
-- 🚀 Développeur Web en herbe.
-- 🌱 Explorateur de nouvelles technologies et curieux invétéré.
-
-## 💼 Compétences Clés
-
-- 💻 Développement Web (HTML, CSS, JavaScript,...).
-- 🚀 Gestion de Projets GitHub.
-- 🧑‍🏫 Autonomie dans des Environnements Exigeants.
-
-<!--## 🚀 Projets en Lumière
-
-- **Projet 1 :** [Nom du Projet 1](lien-vers-le-repertoire-1) - [Courte Description].
-- **Projet 2 :** [Nom du Projet 2](lien-vers-le-repertoire-2) - [Courte Description].
-- **Projet 3 :** [Nom du Projet 3](lien-vers-le-repertoire-3) - [Courte Description].
-
-## 🌟 Contributions et Réalisations
-
-- 🚀 Fondateur de [Nom de Ta Communauté ou Projet], où [Description de la Communauté ou Projet].
-- 🏆 Réalisations notables : [Nom de la Réalisation 1], [Nom de la Réalisation 2], ...-->
-
-## 📫 Comment Me Contacter
-
-- 🐦 Twitter: [@NaCherfaoui](https://twitter.com/NaCherfaoui)
-- 📧 Email: [nassim.cherfaoui@gmail.com](mailto:nassim.cherfaoui@gmail.com)
-- 🌐 Portfolio: [nassimcherfaoui.fr](http://nassimcherfaoui.fr)
-
-## ⚡ Citation Préférée
-
-> "Apprendre à apprendre est la compétence la plus précieuse." - **Elon Musk**
+# Nassim Cherfaoui - Développeur Web Full-Stack 🚀
 
 
-Merci d'avoir visité mon Hub ! N'hésitez pas à explorer mes projets, à me contacter pour toute question ou suggestion. Ensemble, explorons les horizons infinis du code 🚀🌌.
+Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Plongez dans mon univers où la technologie et l'innovation se rencontrent !
+
+### 🌐 À Propos de Moi
+👨‍💻 Actuellement en formation de Concepteur Développeur d'Applications Java à Brest.  
+🚀 Futur Développeur chez Arkéa à partir de novembre 2024.  
+🌱 Toujours à la recherche de nouvelles technologies à explorer et de défis à relever.
+
+### 💼 Compétences Clés
+
+#### Langages et Frameworks
+- **Langages** : Java, HTML, CSS, JavaScript, PHP
+- **Frameworks** : Spring Boot, React Native, Vue.js, Symfony, Bootstrap, jQuery
+
+#### Outils de Développement
+- **Docker, Kubernetes** : Conteneurisation et Orchestration
+- **Git, GitHub** : Gestion de Version
+- **CI/CD** : Intégration continue et déploiement continu
+
+#### Autres Compétences
+- Programmation orientée objet (POO)
+- Conception pour WordPress
+- Bases de données SQL et NoSQL
+- Node.js
+- Design web responsive
+
+### 📫 Comment Me Contacter
+ <a href="https://www.linkedin.com/in/ncherfaoui" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/NaCherfaoui" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  <a href="http://nassimcherfaoui.fr" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 
-###  #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Ncherfaoui/30-nites-of-code)  
-  ![@Ncherfaoui #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ncherfaoui)
+### ⚡ Citation Préférée
+
+"La seule façon de faire du bon travail est d’aimer ce que vous faites." - Steve Jobs
+
+Merci d'avoir visité mon espace ! Explorez mes projets et n'hésitez pas à me contacter. Ensemble, repoussons les limites du possible 🚀🌌.
