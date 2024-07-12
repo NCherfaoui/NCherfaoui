@@ -5,8 +5,11 @@ Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Pl
 
 ### 🌐 À Propos de Moi
 👨‍💻 Actuellement en formation de Concepteur Développeur d'Applications Java à Brest.  
-🚀 Futur Développeur chez Arkéa à partir de novembre 2024.  
-🌱 Toujours à la recherche de nouvelles technologies à explorer et de défis à relever.
+🚀 Futur Stagiaire chez Arkéa à partir de novembre 2024.    
+🌱 Toujours à la recherche de nouvelles technologies à explorer et de défis à relever.  
+🎉 **Participant au SUMMER HACKATHON July 11-12th, 2024** organisé par Codédex. Plus d'infos [ici](https://www.codedex.io/hackathon).  
+<!-- ![SUMMER HACKATHON 2024](images/Im_In.png) -->
+<img src="images/Im_In.png" alt="SUMMER HACKATHON" height="400"/>  <img src="images/hackathon-poster.png" alt="HACKATHON POSTER" height="400"/>
 
 ### 💼 Compétences Clés
 
@@ -35,3 +38,5 @@ Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Pl
 "La seule façon de faire du bon travail est d’aimer ce que vous faites." - Steve Jobs
 
 Merci d'avoir visité mon espace ! Explorez mes projets et n'hésitez pas à me contacter. Ensemble, repoussons les limites du possible 🚀🌌.
+
+
