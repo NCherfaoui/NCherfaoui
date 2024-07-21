@@ -9,7 +9,8 @@ Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Pl
 🌱 Toujours à la recherche de nouvelles technologies à explorer et de défis à relever.  
 🎉 **Participant au SUMMER HACKATHON July 11-12th, 2024** organisé par Codédex. Plus d'infos [ici](https://www.codedex.io/hackathon).  
 <!-- ![SUMMER HACKATHON 2024](images/Im_In.png) -->
-<img src="images/Im_In.png" alt="SUMMER HACKATHON" height="400"/>  <img src="images/hackathon-poster.png" alt="HACKATHON POSTER" height="400"/>
+<!-- <img src="images/Im_In.png" alt="SUMMER HACKATHON" height="400"/>  -->
+<img src="images/hackathon-poster.png" alt="HACKATHON POSTER"  width="420"/>
 
 ### 💼 Compétences Clés
 
