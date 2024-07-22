@@ -38,6 +38,9 @@ Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Pl
 
 "La seule façon de faire du bon travail est d’aimer ce que vous faites." - Steve Jobs
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 Merci d'avoir visité mon espace ! Explorez mes projets et n'hésitez pas à me contacter. Ensemble, repoussons les limites du possible 🚀🌌.
 
 
