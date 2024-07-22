@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/NCherfaoui/SymfonyProject/commit/a168c6e639bf78838479dc6cc150074256fa1b4a\"><strong>a</strong>168c6e639bf78838479dc6cc150074256fa1b4a</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/NCherfaoui/actions-learning-pathway/commit/ab88f2ca826ac2faf4b5d26fb6661a3a8ec54534\"><strong>ab</strong>88f2ca826ac2faf4b5d26fb6661a3a8ec54534</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 384 times)\n2. to (used 309 times)\n3. dependency (used 214 times)\n4. merge (used 207 times)\n5. from (used 206 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/SymfonyProject/commit/38ba142f1a38d9a4e1820341254f69a9692cc477\">38ba142</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/6\">#6</a>: step3: add Codecov badge\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/7\">#7</a>: step4: add smiles\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/8\">#8</a>: Step6\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/9\">#9</a>: step5: add frontend and tests\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/10\">#10</a>: Step7\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/12\">#12</a>: step8: add Carryforward Flags",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/22a896a458152bf1bddbb384a9c915f300664a99\">22a896a</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/4facdf1a481afa27add890fe6dbaffc9a9757069\">4facdf1</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/013ebe0b9fee5423563dd07e0d2b80b6929003be\">013ebe0</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/a07f3bfa1a13c0a6227b4c6c56cf387026ec85fb\">a07f3bf</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/b410b20242791e75c5c8bb5798b48b0b99ff881e\">b410b20</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/fa1541428150a33bef670d1709a2650a42b48d33\">fa15414</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/NCherfaoui/commit/4f265ecb831e95585e505ce87775923ac494906e\">4f265ec</a>\n- <a href=\"https://github.com/NCherfaoui/NCherfaoui/commit/1ab9384e8d4601f82dbb70e39f70aa398e993371\">1ab9384</a>\n- <a href=\"https://github.com/NCherfaoui/NCherfaoui/commit/fdd8b223a21999b34ab1f41ec0851feec44af3ff\">fdd8b22</a>\n- <a href=\"https://github.com/NCherfaoui/SymfonyProject/commit/05908b5b66e76e8edeefc21a2b3ee6b2607b6302\">05908b5</a>\n- <a href=\"https://github.com/NCherfaoui/SymfonyProject/commit/f9272a43fcdf02b43147f1f9cf07145d3151e210\">f9272a4</a>\n- <a href=\"https://github.com/NCherfaoui/Codedex-Summer-Hackathon-2024/commit/a5ff799dd1c2599d6a2e9b78f37147b88160e36d\">a5ff799</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
