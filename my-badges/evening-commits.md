@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/869841a8cbf8b8edf68c4e0ce90ee0825b7b8215">869841a</a>
+- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/f0323e19f470ce4e31ff38eece26aca0ba02a0f5">f0323e1</a>
+- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/2b1cdb558c29dbb90c59c0b189a55628a1f3dd68">2b1cdb5</a>
 - <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/1533c8c4c2b430262bf4f2b27be86279b5b7bd9a">1533c8c</a>
 - <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/20d4dd450e9de25045fc7949b1e075a9e3da2c79">20d4dd4</a>
 - <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/83643a2e712cc2eb80a44e61ffec71d29d2e7e8e">83643a2</a>
-- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/53b8dc0f6dfa07b10b1e170607f5867b7984d9cb">53b8dc0</a>
-- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/f2b2e36e84b359f8c9a0ea2b47e6c4be6667b031">f2b2e36</a>
-- <a href="https://github.com/NCherfaoui/profile-readme-stats/commit/1a200556a7e1d789ca012e7de4c6cebb374ad227">1a20055</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
