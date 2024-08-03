@@ -49,6 +49,7 @@ Bienvenue ! Je suis Nassim, un développeur web passionné basé en Bretagne. Pl
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <!-- my-badges end -->
 
 Merci d'avoir visité mon espace ! Explorez mes projets et n'hésitez pas à me contacter. Ensemble, repoussons les limites du possible 🚀🌌.
