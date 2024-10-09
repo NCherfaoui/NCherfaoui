@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 414 times)\n2. to (used 321 times)\n3. dependency (used 214 times)\n4. merge (used 211 times)\n5. from (used 207 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 417 times)\n2. to (used 321 times)\n3. dependency (used 214 times)\n4. merge (used 212 times)\n5. from (used 208 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/6\">#6</a>: step3: add Codecov badge\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/7\">#7</a>: step4: add smiles\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/8\">#8</a>: Step6\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/9\">#9</a>: step5: add frontend and tests\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/10\">#10</a>: Step7\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/12\">#12</a>: step8: add Carryforward Flags",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/6\">#6</a>: step3: add Codecov badge\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/7\">#7</a>: step4: add smiles\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/8\">#8</a>: Step6\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/9\">#9</a>: step5: add frontend and tests\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/10\">#10</a>: Step7\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/pull/1\">#1</a>: Update README.md\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/12\">#12</a>: step8: add Carryforward Flags",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/my-react-native-app/commit/b70cf9981693cd607274bd744051b7c956cf62b0\">b70cf99</a>\n- <a href=\"https://github.com/NCherfaoui/my-react-native-app/commit/9b6a735571377517023cfa1d5539709a81dbd962\">9b6a735</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/3ca433ce8a9891096cc73957010a427d64d20d5f\">3ca433c</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/dcb72128380a7e5c835ae3d7cdddd535608cd3f6\">dcb7212</a>\n- <a href=\"https://github.com/NCherfaoui/actions-learning-pathway/commit/775d5f3ddbc3d517ffe0765fbc106249e1e15ee0\">775d5f3</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/22a896a458152bf1bddbb384a9c915f300664a99\">22a896a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/fdd3bdb58eea5e141d4ca0643832b78f0a24ff82\">fdd3bdb</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/573141359d5f41309d7b77336fab10db595d7089\">5731413</a>\n- <a href=\"https://github.com/NCherfaoui/my-react-native-app/commit/b70cf9981693cd607274bd744051b7c956cf62b0\">b70cf99</a>\n- <a href=\"https://github.com/NCherfaoui/my-react-native-app/commit/9b6a735571377517023cfa1d5539709a81dbd962\">9b6a735</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/3ca433ce8a9891096cc73957010a427d64d20d5f\">3ca433c</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/dcb72128380a7e5c835ae3d7cdddd535608cd3f6\">dcb7212</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

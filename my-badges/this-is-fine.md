@@ -9,6 +9,7 @@ Pull requests:
 - <a href="https://github.com/NCherfaoui/codecov-demo/pull/8">#8</a>: Step6
 - <a href="https://github.com/NCherfaoui/codecov-demo/pull/9">#9</a>: step5: add frontend and tests
 - <a href="https://github.com/NCherfaoui/codecov-demo/pull/10">#10</a>: Step7
+- <a href="https://github.com/NCherfaoui/profile-readme-stats/pull/1">#1</a>: Update README.md
 - <a href="https://github.com/NCherfaoui/codecov-demo/pull/12">#12</a>: step8: add Carryforward Flags
 
 
