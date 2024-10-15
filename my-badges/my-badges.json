@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 420 times)\n2. to (used 321 times)\n3. dependency (used 214 times)\n4. merge (used 213 times)\n5. from (used 208 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 423 times)\n2. to (used 322 times)\n3. merge (used 214 times)\n4. dependency (used 214 times)\n5. from (used 209 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/f5fb4865c09dfa92345141959ef12b8924a4f7c9\">f5fb486</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/61460e9dc8fbd4e10c91ff8b7ad517e446f38bf5\">61460e9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/7a8ed412c5e5ccdb4188d83704b3290e44745c63\">7a8ed41</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/aea883134dfc48641dbc9c14e466754b93133426\">aea8831</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-http-server-javascript/commit/744b112ae20ad79ffa0939924fdf725a59cf097d\">744b112</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-http-server-javascript/commit/dcdd2273171ce81bdf5f46ea40dab1035df921d5\">dcdd227</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/ec4c3d9ca10d771752627bbe2da6c3bd5956c029\">ec4c3d9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/f5fb4865c09dfa92345141959ef12b8924a4f7c9\">f5fb486</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/61460e9dc8fbd4e10c91ff8b7ad517e446f38bf5\">61460e9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/7a8ed412c5e5ccdb4188d83704b3290e44745c63\">7a8ed41</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/aea883134dfc48641dbc9c14e466754b93133426\">aea8831</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-http-server-javascript/commit/744b112ae20ad79ffa0939924fdf725a59cf097d\">744b112</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
