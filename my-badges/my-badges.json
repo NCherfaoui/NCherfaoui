@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 434 times)\n2. to (used 323 times)\n3. merge (used 216 times)\n4. dependency (used 214 times)\n5. from (used 211 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 453 times)\n2. to (used 327 times)\n3. merge (used 218 times)\n4. dependency (used 218 times)\n5. from (used 211 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/cf383c14b6f19c9b02b9f5eb173a0e73eda51da8\">cf383c1</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/407b062602e7469836c55932d5b22044fc68633c\">407b062</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/779bfb259ae0c7ec154e3aab0e39481407bbb1fc\">779bfb2</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
