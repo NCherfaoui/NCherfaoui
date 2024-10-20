@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 453 times)\n2. to (used 327 times)\n3. merge (used 218 times)\n4. dependency (used 218 times)\n5. from (used 211 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 456 times)\n2. to (used 328 times)\n3. merge (used 219 times)\n4. dependency (used 218 times)\n5. from (used 212 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,21 +38,21 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/6\">#6</a>: step3: add Codecov badge\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/7\">#7</a>: step4: add smiles\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/8\">#8</a>: Step6\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/9\">#9</a>: step5: add frontend and tests\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/10\">#10</a>: Step7\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/pull/1\">#1</a>: Update README.md\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/pull/16\">#16</a>: Rename main.yml to ci.yml\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/12\">#12</a>: step8: add Carryforward Flags",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/6\">#6</a>: step3: add Codecov badge\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/7\">#7</a>: step4: add smiles\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/8\">#8</a>: Step6\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/9\">#9</a>: step5: add frontend and tests\n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/10\">#10</a>: Step7\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/pull/1\">#1</a>: Update README.md\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/pull/16\">#16</a>: Rename main.yml to ci.yml\n- <a href=\"https://github.com/Aissam-salman/Forme/pull/5\">#5</a>: Merge with Mail \n- <a href=\"https://github.com/NCherfaoui/codecov-demo/pull/12\">#12</a>: step8: add Carryforward Flags",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/06e99792dc469b47042824cb06f9a3b7e908eaf3\">06e9979</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/34a823fd1b97bf10d5ff94c0e557b546faeca614\">34a823f</a>\n- <a href=\"https://github.com/NCherfaoui/scout-demo-service/commit/4476e3ad43c267088d405a3bfabae5aa6202ec79\">4476e3a</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/fdd3bdb58eea5e141d4ca0643832b78f0a24ff82\">fdd3bdb</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/573141359d5f41309d7b77336fab10db595d7089\">5731413</a>\n- <a href=\"https://github.com/NCherfaoui/my-react-native-app/commit/b70cf9981693cd607274bd744051b7c956cf62b0\">b70cf99</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/49c4dd33443bd8f4647e573eeb2cbfc1d414ee32\">49c4dd3</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/06e99792dc469b47042824cb06f9a3b7e908eaf3\">06e9979</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/34a823fd1b97bf10d5ff94c0e557b546faeca614\">34a823f</a>\n- <a href=\"https://github.com/NCherfaoui/scout-demo-service/commit/4476e3ad43c267088d405a3bfabae5aa6202ec79\">4476e3a</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/fdd3bdb58eea5e141d4ca0643832b78f0a24ff82\">fdd3bdb</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/573141359d5f41309d7b77336fab10db595d7089\">5731413</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/ec4c3d9ca10d771752627bbe2da6c3bd5956c029\">ec4c3d9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/f5fb4865c09dfa92345141959ef12b8924a4f7c9\">f5fb486</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/61460e9dc8fbd4e10c91ff8b7ad517e446f38bf5\">61460e9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/7a8ed412c5e5ccdb4188d83704b3290e44745c63\">7a8ed41</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/aea883134dfc48641dbc9c14e466754b93133426\">aea8831</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-http-server-javascript/commit/744b112ae20ad79ffa0939924fdf725a59cf097d\">744b112</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/b46bcac948751ef2c7e19e25838ac0633dc89099\">b46bcac</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/ec4c3d9ca10d771752627bbe2da6c3bd5956c029\">ec4c3d9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/f5fb4865c09dfa92345141959ef12b8924a4f7c9\">f5fb486</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/61460e9dc8fbd4e10c91ff8b7ad517e446f38bf5\">61460e9</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/7a8ed412c5e5ccdb4188d83704b3290e44745c63\">7a8ed41</a>\n- <a href=\"https://github.com/NCherfaoui/codecrafters-grep-javascript/commit/aea883134dfc48641dbc9c14e466754b93133426\">aea8831</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
