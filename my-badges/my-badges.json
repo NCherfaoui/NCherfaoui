@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 458 times)\n2. to (used 338 times)\n3. merge (used 220 times)\n4. dependency (used 218 times)\n5. from (used 215 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 458 times)\n2. to (used 342 times)\n3. merge (used 220 times)\n4. dependency (used 218 times)\n5. from (used 215 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/b7a349c3ade2731f18133505015c0ca54d3e787f\">b7a349c</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]

@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/Aissam-salman/form-front/commit/b7a349c3ade2731f18133505015c0ca54d3e787f">b7a349c</a>
 - <a href="https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd">40e81f4</a>
 - <a href="https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b">34dfd07</a>
 
