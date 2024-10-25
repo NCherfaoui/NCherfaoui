@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 458 times)\n2. to (used 342 times)\n3. merge (used 220 times)\n4. dependency (used 218 times)\n5. from (used 215 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 461 times)\n2. to (used 344 times)\n3. merge (used 225 times)\n4. dependency (used 218 times)\n5. from (used 215 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,14 +45,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/49c4dd33443bd8f4647e573eeb2cbfc1d414ee32\">49c4dd3</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/06e99792dc469b47042824cb06f9a3b7e908eaf3\">06e9979</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/34a823fd1b97bf10d5ff94c0e557b546faeca614\">34a823f</a>\n- <a href=\"https://github.com/NCherfaoui/scout-demo-service/commit/4476e3ad43c267088d405a3bfabae5aa6202ec79\">4476e3a</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/fdd3bdb58eea5e141d4ca0643832b78f0a24ff82\">fdd3bdb</a>\n- <a href=\"https://github.com/NCherfaoui/profile-readme-stats/commit/573141359d5f41309d7b77336fab10db595d7089\">5731413</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/49c4dd33443bd8f4647e573eeb2cbfc1d414ee32\">49c4dd3</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/06e99792dc469b47042824cb06f9a3b7e908eaf3\">06e9979</a>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/f4f34ffc805492e5971027009ac1bc4ed2e932aa\">f4f34ff</a>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/446483989d501d706919e8fbe46be42f0207f19d\">4464839</a>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/0a67ca67af27d87b9add2728bc5cee3089c22f11\">0a67ca6</a>\n- <a href=\"https://github.com/NCherfaoui/jenkins-first-project/commit/34a823fd1b97bf10d5ff94c0e557b546faeca614\">34a823f</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/f22db8562f548ab2f874078f80c202d7b0cf9cc7\">f22db85</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/d3e6aaa73af03d85a6dd198cd38b449a561e985f\">d3e6aaa</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/5589f9c5f6b60b182aaec2ce53f5c9ffb2a0525e\">5589f9c</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/54b358b2f000ab38cd980e9b4fb25871f3e759f6\">54b358b</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/52b1ead1669cde96ab514e95cb1107b235fb267d\">52b1ead</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/a67a65b1efa21377d1ff71a283133c096e1ac133\">a67a65b</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/f22db8562f548ab2f874078f80c202d7b0cf9cc7\">f22db85</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/d3e6aaa73af03d85a6dd198cd38b449a561e985f\">d3e6aaa</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/5589f9c5f6b60b182aaec2ce53f5c9ffb2a0525e\">5589f9c</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/54b358b2f000ab38cd980e9b4fb25871f3e759f6\">54b358b</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/52b1ead1669cde96ab514e95cb1107b235fb267d\">52b1ead</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/ed9f0104e023961e6e9fba44b9752277c218a1cd\">ed9f010</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/abf1abdd4fed6e2af4048c4c80871a10e5c4f4c4\">abf1abd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/bc91c11807e8e3bcbf9880889bdf27db64432024\">bc91c11</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/ed9f0104e023961e6e9fba44b9752277c218a1cd\">ed9f010</a>\n- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/abf1abdd4fed6e2af4048c4c80871a10e5c4f4c4\">abf1abd</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -82,5 +82,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/b7a349c3ade2731f18133505015c0ca54d3e787f\">b7a349c</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/a67a65b1efa21377d1ff71a283133c096e1ac133\">a67a65b</a>: Fix(secret): ignore sendgrid.env\nAdd @PropertySource to load .env file\nAdd  endpoint : /workshops  for  getWorkshops\n\nSigned-off-by: Nassim Cherfaoui <99206668+NCherfaoui@users.noreply.github.com>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/7d903dc6931a62a57e5986e186ce97de3bcf7191\">7d903dc</a>: fix: mail sending",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]

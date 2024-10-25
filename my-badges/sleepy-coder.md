@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/NCherfaoui/prepa-competences-site/commit/bc91c11807e8e3bcbf9880889bdf27db64432024">bc91c11</a>
 - <a href="https://github.com/NCherfaoui/spring-boot-student-management/commit/ed9f0104e023961e6e9fba44b9752277c218a1cd">ed9f010</a>
 - <a href="https://github.com/NCherfaoui/spring-boot-student-management/commit/abf1abdd4fed6e2af4048c4c80871a10e5c4f4c4">abf1abd</a>
 
