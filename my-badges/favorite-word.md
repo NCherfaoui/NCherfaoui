@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 465 times)
-2. to (used 348 times)
-3. merge (used 227 times)
+1. update (used 454 times)
+2. to (used 344 times)
+3. merge (used 224 times)
 4. dependency (used 218 times)
-5. from (used 217 times)
+5. from (used 216 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
