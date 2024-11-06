@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 454 times)\n2. to (used 344 times)\n3. merge (used 224 times)\n4. dependency (used 218 times)\n5. from (used 216 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 454 times)\n2. to (used 344 times)\n3. merge (used 225 times)\n4. dependency (used 218 times)\n5. from (used 217 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/xml-java-parse/commit/84338390f245d594a17612e2544df4a25c54516c\">8433839</a>\n- <a href=\"https://github.com/NCherfaoui/xml-java-parse/commit/5b2783d97095418343567f2f7998ef941b28f011\">5b2783d</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
