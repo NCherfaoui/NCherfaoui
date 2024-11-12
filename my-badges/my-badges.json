@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 466 times)\n2. to (used 352 times)\n3. merge (used 230 times)\n4. dependency (used 224 times)\n5. from (used 222 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 467 times)\n2. to (used 355 times)\n3. merge (used 230 times)\n4. dependency (used 224 times)\n5. from (used 222 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/a67a65b1efa21377d1ff71a283133c096e1ac133\">a67a65b</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/f22db8562f548ab2f874078f80c202d7b0cf9cc7\">f22db85</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/d3e6aaa73af03d85a6dd198cd38b449a561e985f\">d3e6aaa</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/5589f9c5f6b60b182aaec2ce53f5c9ffb2a0525e\">5589f9c</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/54b358b2f000ab38cd980e9b4fb25871f3e759f6\">54b358b</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/52b1ead1669cde96ab514e95cb1107b235fb267d\">52b1ead</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/bank-account-config-repo/commit/4b15770b2a45b61cbda69361b9e78ede084d291b\">4b15770</a>\n- <a href=\"https://github.com/NCherfaoui/bank-account-app/commit/d109122371c3b68ac2523e9cf7d5848022160689\">d109122</a>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/a67a65b1efa21377d1ff71a283133c096e1ac133\">a67a65b</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/f22db8562f548ab2f874078f80c202d7b0cf9cc7\">f22db85</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/d3e6aaa73af03d85a6dd198cd38b449a561e985f\">d3e6aaa</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/5589f9c5f6b60b182aaec2ce53f5c9ffb2a0525e\">5589f9c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
