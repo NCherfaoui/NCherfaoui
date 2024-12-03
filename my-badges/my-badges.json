@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/NCherfaoui/xml-java-parse/commit/a2243fb28e63ba386c05c969dfb307916a2fa52e\"><strong>a</strong>2243fb28e63ba386c05c969dfb307916a2fa52e</a>",
+    "body": "- <a href=\"https://github.com/NCherfaoui/essentiel-php-8/commit/a690f7bd295720324d28b7926271f0b9d4330e08\"><strong>a</strong>690f7bd295720324d28b7926271f0b9d4330e08</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/NCherfaoui/spring-boot-student-management/commit/abf1abdd4fed6e2af4048c4c80871a10e5c4f4c4\"><strong>ab</strong>f1abdd4fed6e2af4048c4c80871a10e5c4f4c4</a>",
+    "body": "- <a href=\"https://github.com/NCherfaoui/actions-learning-pathway/commit/ab88f2ca826ac2faf4b5d26fb6661a3a8ec54534\"><strong>ab</strong>88f2ca826ac2faf4b5d26fb6661a3a8ec54534</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -26,13 +26,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/SymfonyProject/commit/38ba142f1a38d9a4e1820341254f69a9692cc477\">38ba142</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "this-is-fine",
@@ -80,22 +73,15 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/b7a349c3ade2731f18133505015c0ca54d3e787f\">b7a349c</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/prepa-competences-site/commit/34dfd07f0592a659dd35cd8798164c6d1682c81b\">34dfd07</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/b7a349c3ade2731f18133505015c0ca54d3e787f\">b7a349c</a>\n- <a href=\"https://github.com/Aissam-salman/form-front/commit/40e81f419dd022a3df6e89fae073159dbe592cdd\">40e81f4</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/a67a65b1efa21377d1ff71a283133c096e1ac133\">a67a65b</a>: Fix(secret): ignore sendgrid.env\nAdd @PropertySource to load .env file\nAdd  endpoint : /workshops  for  getWorkshops\n\nSigned-off-by: Nassim Cherfaoui <99206668+NCherfaoui@users.noreply.github.com>\n- <a href=\"https://github.com/Aissam-salman/Forme/commit/7d903dc6931a62a57e5986e186ce97de3bcf7191\">7d903dc</a>: fix: mail sending",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/express-typescript-tutorial/commit/78e89e1ec25a1226179f809744930ad5e4e97c25\">78e89e1</a>: fix  7_deployment\n- <a href=\"https://github.com/NCherfaoui/express-typescript-tutorial/commit/1cdae8df7721a123004214c4a45b22ded005e10b\">1cdae8d</a>: fix links and layout",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   },
   {
     "id": "public-keys-4",
@@ -110,5 +96,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/xml-java-parse/commit/84338390f245d594a17612e2544df4a25c54516c\">8433839</a>\n- <a href=\"https://github.com/NCherfaoui/xml-java-parse/commit/5b2783d97095418343567f2f7998ef941b28f011\">5b2783d</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/NCherfaoui/exercices-UML-EL/pull/4\">🚀</a>\n* <a href=\"https://github.com/codedex-io/github-chapter-2-contributions/pull/279\">🎉</a>\n* <a href=\"https://github.com/fineanmol/Hacktoberfest2024/pull/7469#issuecomment-2388569371\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
