@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 539 times)\n2. dependency (used 284 times)\n3. merge (used 273 times)\n4. pull (used 256 times)\n5. request (used 256 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 541 times)\n2. dependency (used 284 times)\n3. merge (used 274 times)\n4. pull (used 256 times)\n5. request (used 256 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/bot_discord_template/commit/7e8bd1024b4cc871dfd26d84e5eb8226985df608\">7e8bd10</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NCherfaoui/full-stack-spring-boot-security-jwt-postgresql-docker-nextjs/commit/475bbc2e2099599131b90196462ea433eaec3f05\">475bbc2</a>: chore",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
